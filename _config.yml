@@ -22,7 +22,14 @@ user:
   pic: /assets/img/profile.png
   picAlt: "catbook"
   job: bzamorayala@hotmail.com
-  aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: estudios...
+Título de bachiller del colegio Francisco Huerta Rendón.
+
+AutoCAD 2D Y 3D por el Colegio de Ingenieros Civiles del Guayas.
+
+B2 de inglés por Passport.
+
+ # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
