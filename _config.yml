@@ -21,9 +21,8 @@ user:
   name: Bryan Zamora
   pic: /assets/img/profile.png
   picAlt: "catbook"
-  job: Título de bachiller del colegio Francisco Huerta Rendón.
-  aboutme: AutoCAD 2D Y 3D por el Colegio de Ingenieros Civiles del Guayas.
-  
+  job: bzamorayala@hotmail.com
+  aboutme: true # comment this out if you don't need the 'about' page.
 
  exclude:
   - README.md
